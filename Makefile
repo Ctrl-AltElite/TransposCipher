@@ -5,6 +5,6 @@ CC := gcc
 all: cipher cracker
 
 cipher:
-	$(CC) -o cipher src/transpositional_cipher_0.c
+	$(CC) -o cipher src/transpositional_cipher.c
 cracker:
-	$(CC) -o cracker src/transpositional_cipher_0_cracker.c
+	$(CC) -o cracker src/transpositional_cipher_cracker.c
