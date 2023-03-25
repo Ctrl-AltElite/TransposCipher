@@ -2,7 +2,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include <assert.h>
-#include "transpositional_cipher_0.h"
+#include "transpositional_cipher.h"
 
 // const char alphabet[] = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!\"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~ \t\n\r\x0b\x0c";
 // /\   all printable characters
